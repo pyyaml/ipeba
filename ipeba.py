@@ -9,7 +9,7 @@ def mengetik(teks):
 def desain_hacker():
     print(colored(" ___________________________________________________________", 'green'))
     print(colored("|                                                           |", 'green'))
-    print(colored("|            KAMI SEGENAP MAHASISWA PAI SEMESTER 7          |", 'green'))
+    print(colored("|            KAMI SEGENAP MAHASISWA KKN DESA KEDONGDONG     |", 'green'))
     print(colored("|               MENGUCAPKAN SELAMAT & SUKSES                |", 'green'))
     print(colored("|___________________________________________________________|", 'green'))
     print("")
@@ -28,7 +28,7 @@ def teks_credit_tengah_bingkai(credit):
 
 credit = "@pyyaml | INSTITUT PESANTREN BABAKAN "
     
-pesan = "Selamat Dan Sukses Atas Beralih Status \nSekolah Tinggi Ma'had Ali Cirebon (STAIMA) \nMenjadi Institut Pesantren Babakan (IPEBA) \nSemoga Ini Menjadi Langkah Awal \nUntuk Lebih Banyak Prestasi Dan Kemajuan.\n\n[Hadad Fauzi]\nSemoga Menjelma Menjadi Bintang Yang Terang\n\n[Ahmad Fauzan]\nTidak Ada Kata-Kata,Yang Perlu Bukti Nyata\n\n[Abdullah]\nSemoga Do'a Dan Harapan Akan Selalu Bersemayam Untuk Orang-Orang Yang Kuat.\n\n[Luwih Muin]\nSemoga Semakin Berkualitas lagi\n\n[PAI Semester 7]\nSukses Terus Institut Pesantren Babakan, Dari Kami Sekian Dan Terima Kasih\n\n"
+pesan = "Selamat Mengerjakan Ujian Komprehensif  \n16 Maret 2024 \nSampai 20 Maret 2024 \nSemoga Sukses Sehat Samaelalu \nDan Dimudahkan Dalam Pengerjaan Ujian nya. \n\n[Noval Hadi]\nJangan Lupa HP Pada di Kumpulin wir\n\n[Luwih Muin]\nSebelum Ujian Doa Dulu Yah\n\n[Annas Abi Hamzah]\nJangan Pada Nyontek hehe\n\n[Ahmad Zaky]\nIngat Tuhan Melihat Malaikat Mencatat\n\n[KKN KEDONGDONG]\nSukses Terus Institut Pesantren Babakan, Dari Kami Sekian Dan Terima Kasih\n\n"
 
 desain_hacker()
 mengetik(pesan)
