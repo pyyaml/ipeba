@@ -28,7 +28,7 @@ def teks_credit_tengah_bingkai(credit):
 
 credit = "@pyyaml | INSTITUT PESANTREN BABAKAN "
     
-pesan = "Selamat Mengerjakan Ujian Komprehensif  \n16 Maret 2024 \nSampai 20 Maret 2024 \nSemoga Sukses Sehat Samaelalu \nDan Dimudahkan Dalam Pengerjaan Ujian nya. \n\n[Noval Hadi]\nJangan Lupa HP Pada di Kumpulin wir\n\n[Luwih Muin]\nSebelum Ujian Doa Dulu Yah\n\n[Annas Abi Hamzah]\nJangan Pada Nyontek hehe\n\n[Ahmad Zaky]\nIngat Tuhan Melihat Malaikat Mencatat\n\n[KKN KEDONGDONG]\nSukses Terus Institut Pesantren Babakan, Dari Kami Sekian Dan Terima Kasih\n\n"
+pesan = "Selamat Mengerjakan Ujian Komprehensif  \n16 Maret 2024 Sampai 20 Maret 2024 \nSemoga Sukses Sehat Selalu \nDan Dimudahkan Dalam Pengerjaan Ujian nya. \n\n[Noval Hadi]\nJangan Lupa HP Pada di Kumpulin wir\n\n[Luwih Muin]\nSebelum Ujian Doa Dulu Yah\n\n[Annas Abi Hamzah]\nJangan Pada Nyontek hehe\n\n[Ahmad Zaky]\nIngat Tuhan Melihat Malaikat Mencatat\n\n[KKN KEDONGDONG]\nSukses Terus Institut Pesantren Babakan, Dari Kami Sekian Dan Terima Kasih\n\n"
 
 desain_hacker()
 mengetik(pesan)
